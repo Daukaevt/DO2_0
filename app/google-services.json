@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "697000144047",
+    "project_id": "doskaobjavleniy-65c5f",
+    "storage_bucket": "doskaobjavleniy-65c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697000144047:android:f47052ed93b1d273b8385a",
+        "android_client_info": {
+          "package_name": "com.wixsite.mupbam1.resume.do12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697000144047-6c8dfj636kfkn3avlcha46l4i5255t79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJXXD6ie_K7ZFWqyAbpClPSl5zgKxbgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697000144047-6c8dfj636kfkn3avlcha46l4i5255t79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697000144047:android:548b617c17fb13e1b8385a",
+        "android_client_info": {
+          "package_name": "com.wixsite.mupbam1.resume.doskaobjavleniy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697000144047-6c8dfj636kfkn3avlcha46l4i5255t79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJXXD6ie_K7ZFWqyAbpClPSl5zgKxbgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697000144047-6c8dfj636kfkn3avlcha46l4i5255t79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

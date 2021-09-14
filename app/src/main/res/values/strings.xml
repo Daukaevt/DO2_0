@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DO1.2</string>
+    <!-- Menu Drawer Strings-->
+    <string name="ad">Объявления</string>
+    <string name="ad_my_ads">Мои объявления</string>
+    <string name="ad_car">Машины</string>
+    <string name="ad_pc">Компьютеры</string>
+    <string name="ad_smartphones">Смартфоны</string>
+    <string name="ad_dm">Бытовая техника</string>
+    <string name="not_reg">Войдите или зарегистрируйтесь!</string>
+
+    <!-- Menu SignUP/IN-->
+    <string name="ac">Аккаунт</string>
+    <string name="ac_Sign_Up">Регистрация</string>
+    <string name="ac_Sign_In">Вход</string>
+    <string name="ac_Sign_Out">Выход</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Menu SignDialog-->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signUpAction">Зарегистрироваться</string>
+    <string name="signInAction">Войти</string>
+    <string name="forgetPassword">Забыли пароль?</string>
+    <string name="signUpError">Не удалось зарегистрироваться</string>
+    <string name="sendVerithicationEmailError">Не удалось отправить email для подтверждения</string>
+    <string name="sendVerithicationEmailDone">На Вашу почту была отправленна ссылка для подтверждения аккаунта.
+    Пожалуйста, подтвердите Ваш аккаунт.</string>
+    <string name="signInError">Не удалось войти</string>
+
+
+</resources>
